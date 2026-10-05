@@ -2,4 +2,4 @@
 
 conclusão de tarefas
 
-definição prioridades de tarefas
+Definição de prioridade das tarefas
